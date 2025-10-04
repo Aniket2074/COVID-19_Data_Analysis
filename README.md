@@ -25,11 +25,10 @@ Exploratory Data Analysis (EDA): Visualized infection and recovery trends using 
 Feature Selection: Focused on population density and testing rates to analyze impact on case numbers.
 
 Insights: Identified regional trends, growth patterns, and most affected areas.
-.
-.
-.
-.
-.
+
+
+
+
 
 **Code Cell Descriptions:**
 
@@ -50,16 +49,18 @@ Cell 7: Generated heatmaps highlighting most affected countries.
 Cell 8: Performed correlation analysis between infection rates and population/testing.
 
 Cell 9: Summarized findings and insights from EDA.
-.
-.
-.
-.
-.
+
+
+
+
+
 **Tools Used: **
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 Google Colab for implementation
+
+
 
 
 **Conclusion:**
