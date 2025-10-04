@@ -2,6 +2,7 @@
 
 
 **Summary:**
+
 This project analyzes global COVID-19 data using the Johns Hopkins University dataset. It involves data collection, cleaning, preprocessing, and exploratory data analysis to identify infection trends, recovery rates, and high-risk regions. The project uses visualizations such as line charts and heatmaps to highlight case growth and regional impacts. It also examines key factors like population density and testing rates that influence the spread of the virus. Implemented in Google Colab using Python libraries (Pandas, NumPy, Matplotlib, Seaborn), the analysis provides meaningful insights for improving public health policies and response strategies.
 
  
@@ -14,7 +15,7 @@ Dataset:
 
 **Project Steps:**
 
- 
+
 Data Collection: Imported global COVID-19 case data from multiple sources.
 
 Data Preprocessing: Cleaned data, filled missing values, and formatted date columns for time series analysis.
@@ -24,7 +25,11 @@ Exploratory Data Analysis (EDA): Visualized infection and recovery trends using 
 Feature Selection: Focused on population density and testing rates to analyze impact on case numbers.
 
 Insights: Identified regional trends, growth patterns, and most affected areas.
-
+.
+.
+.
+.
+.
 
 **Code Cell Descriptions:**
 
@@ -45,9 +50,11 @@ Cell 7: Generated heatmaps highlighting most affected countries.
 Cell 8: Performed correlation analysis between infection rates and population/testing.
 
 Cell 9: Summarized findings and insights from EDA.
-
-
-
+.
+.
+.
+.
+.
 **Tools Used: **
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
