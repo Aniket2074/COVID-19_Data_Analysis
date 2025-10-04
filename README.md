@@ -6,20 +6,23 @@ This project analyzes global COVID-19 data using the Johns Hopkins University da
 
  
 **Objective:**
-
- Analyze COVID-19 data to track infection trends, recovery rates, and identify high-risk regions.
+Analyze COVID-19 data to track infection trends, recovery rates, and identify high-risk regions.
  
 Dataset:
- 
- **Johns Hopkins University COVID-19 Dataset** (Global data).
+**Johns Hopkins University COVID-19 Dataset** (Global data).
 
 
 **Project Steps:**
+
  
 Data Collection: Imported global COVID-19 case data from multiple sources.
+
 Data Preprocessing: Cleaned data, filled missing values, and formatted date columns for time series analysis.
+
 Exploratory Data Analysis (EDA): Visualized infection and recovery trends using line charts and heatmaps.
+
 Feature Selection: Focused on population density and testing rates to analyze impact on case numbers.
+
 Insights: Identified regional trends, growth patterns, and most affected areas.
 
 
@@ -42,6 +45,7 @@ Cell 7: Generated heatmaps highlighting most affected countries.
 Cell 8: Performed correlation analysis between infection rates and population/testing.
 
 Cell 9: Summarized findings and insights from EDA.
+
 
 
 **Tools Used: **
