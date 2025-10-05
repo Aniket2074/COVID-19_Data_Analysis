@@ -41,7 +41,7 @@ Analyze COVID-19 data to track infection trends, recovery rates, and identify hi
 
 
 
-**Conclusion:**
+## Conclusion:
 The analysis provides insights into infection spread, aiding better health policy decisions and pandemic response strategies.
 
 
